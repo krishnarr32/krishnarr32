@@ -63,7 +63,7 @@ SQL-based sales and customer behaviour reporting; competitor analysis; waste red
 |---|---|
 | Data Analysis | Python (pandas, NumPy), R, Excel, EDA, data cleaning, feature engineering |
 | Machine Learning | XGBoost, LightGBM, Ridge, Lasso, ElasticNet, Random Forest, Neural Networks, tidymodels |
-| NLP & Sentiment | FinBERT, association rule mining (Apriori), text classification |
+| NLP & Sentiment | FinBERT, association rule mining (Apriori), text classification ,VADER|
 | Databases | SQL, SQLite, star-schema design, ELT pipelines, joins, aggregation |
 | Visualisation | Power BI, DAX, Power Query, ggplot2, matplotlib, seaborn, arulesViz |
 | Automation | Python scripting, batch scripting, OneDrive integration, workflow automation |
