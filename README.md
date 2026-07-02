@@ -17,7 +17,7 @@ Recent Master of Business Analytics graduate with hands-on experience in data an
 
 Previously a Research Analyst Intern at **Technology Investment Network (TIN)**, where I automated data pipelines for NZ's top 200 tech companies. Also completed a Business Analyst internship at **Vani's Kitchen** building SQL-based reporting systems. Currently a **Teaching Assistant in the Business and Economics Department at the University of Auckland**.
 
-Background in Applied Physics (SVNIT Surat, India) — bringing strong quantitative and analytical foundations to every project.
+Background in Applied Physics brings strong quantitative and analytical foundations to every project.
 
 ---
 
