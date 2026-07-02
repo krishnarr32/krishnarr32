@@ -13,7 +13,7 @@
 
 ## About Me
 
-Recent Master of Business Analytics graduate with hands-on experience in data analysis, business intelligence, and research across the NZ tech and hospitality sectors. I build automated data pipelines, machine learning models, SQL data warehouses, and Power BI dashboards — and translate technical findings into clear business recommendations.
+Recent Master of Business Analytics graduate with hands-on experience in data analysis, business intelligence, and research across the NZ tech and hospitality sectors. I build automated data pipelines, machine learning models, SQL data warehouses, and Power BI dashboards to translate technical findings into clear business recommendations.
 
 Previously a Research Analyst Intern at **Technology Investment Network (TIN)**, where I automated data pipelines for NZ's top 200 tech companies. Also completed a Business Analyst internship at **Vani's Kitchen** building SQL-based reporting systems. Currently a **Teaching Assistant in the Business and Economics Department at the University of Auckland**.
 
