@@ -74,16 +74,17 @@ SQL-based sales and customer behaviour reporting; competitor analysis; waste red
 
 ## 🗂️ Portfolio Projects
 
-| Project | Summary | Tools |
+| Project | Description | Tools |
 |---|---|---|
-| [PlatefulNZ Churn Prediction](https://github.com/krishnarr32/platefulnz-churn-prediction) | ML pipeline predicting customer churn on 200K records — LightGBM AUC 0.953 | R, LightGBM, tidymodels |
-| [ETH Buy Signal — XGBoost](https://github.com/krishnarr32/crypto-eth-buy-signal) | Daily ETH buy signals using XGBoost, FinBERT sentiment, Google Trends & FRED macro — Sharpe 0.656 | Python, XGBoost, FinBERT |
-| [House Price Prediction](https://github.com/krishnarr32/House-price-prediction) | Regression pipeline comparing 6 models — Ridge/Lasso/ElasticNet/XGBoost — Test R² 0.93 | Python, scikit-learn, XGBoost |
-| [AI Research Data Warehouse](https://github.com/krishnarr32/AI-research-Data-Warehouse) | SQLite star-schema ELT warehouse analysing global AI publications vs ICT graduates (2014–2022) | SQL, SQLite, Excel |
-| [Netflix Content Analysis](https://github.com/krishnarr32/netflix-content-analysis-powerbi) | Power BI dashboard + Apriori association rule mining on Netflix content strategy | Power BI, R, arules |
-| [Europe Trade Analysis](https://github.com/krishnarr32/europe-trade-dependency-analysis) | Identifying Europe's most trade-dependent countries using GDP and World Bank trade data | Python, pandas, matplotlib |
-| [Superannuation Planning Model](https://github.com/krishnarr32/Superannuation-Retirement-Planning) | Retirement readiness model with Monte Carlo simulation and sensitivity analysis | Excel, financial modelling |
-| [Personal Fitness Tracker](https://github.com/krishnarr32/personal-fitness-tracker-excel) | Multi-sport Excel tracker — gym, run, swim, cycle, tennis, sauna — MET-based calorie engine | Excel, SUMIF, cross-sheet formulas |
+| [PlatefulNZ Churn Prediction](https://github.com/krishnarr32/platefulnz-churn-prediction) | Built churn models on 200K NZ meal-kit customer records using logistic regression, neural network, and LightGBM — AUC 0.953, with retention strategy recommendations | R, LightGBM, tidymodels, ggplot2 |
+| [ETH Buy Signal — XGBoost](https://github.com/krishnarr32/crypto-eth-buy-signal) | Generated daily ETH buy signals combining technical indicators, FinBERT news sentiment, Google Trends, and FRED macro data — Sharpe ratio 0.656 vs Buy-and-Hold -0.292 | Python, XGBoost, FinBERT, SHAP |
+| [House Price Prediction](https://github.com/krishnarr32/House-price-prediction) | Compared six regression models on the Ames Housing dataset with corrected preprocessing — Ridge, Lasso, ElasticNet, and XGBoost all achieved Test R² 0.93 | Python, scikit-learn, XGBoost |
+| [AI Research Data Warehouse](https://github.com/krishnarr32/AI-research-Data-Warehouse) | Designed a SQLite star-schema mart integrating World Bank, OECD, and UNESCO data to analyse AI publication patterns across income groups and COVID periods | SQL, SQLite, Excel Power Query |
+| [Netflix Content Analysis](https://github.com/krishnarr32/netflix-content-analysis-powerbi) | Applied Apriori association rule mining in R to uncover content co-occurrence patterns in Netflix data, with interactive Power BI dashboard for business storytelling | Power BI, R, arules, arulesViz |
+| [Europe Trade Dependency](https://github.com/krishnarr32/europe-trade-dependency-analysis) | Identified Europe as the most trade-dependent region and Slovenia, Slovakia, Hungary as top-3 countries using GDP and World Bank trade data with World Bank API integration | Python, pandas, matplotlib |
+| [Superannuation Planning Model](https://github.com/krishnarr32/Superannuation-Retirement-Planning) | Modelled retirement readiness using annuity logic, Monte Carlo simulation, and sensitivity analysis across contribution rate, return, inflation, and allocation assumptions | Excel, financial modelling |
+| [Personal Fitness Tracker](https://github.com/krishnarr32/personal-fitness-tracker-excel) | Self-built multi-sport Excel tracker covering gym, run, swim, cycle, tennis, and sauna recovery — MET-based calorie engine with automated daily dashboard | Excel, SUMIF, cross-sheet formulas |
+
 
 ---
 
