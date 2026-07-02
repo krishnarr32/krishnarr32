@@ -3,7 +3,7 @@
 🎓 Master of Business Analytics — University of Auckland (2025–2026)  
 📍 Auckland, New Zealand  
 💼 Aspiring Business Analyst | Data Analyst | Data Engineer  
-🏫 Teaching Assistant — Business and Ecnomics Department, University of Auckland
+🏫 Teaching Assistant — Business and Economics Department, University of Auckland
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Krishna%20Sudarsan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna-sudarsan)
 [![Email](https://img.shields.io/badge/Email-saikrishna1017%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saikrishna1017@gmail.com)
